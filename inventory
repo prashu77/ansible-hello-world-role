@@ -2,5 +2,5 @@
 localhost ansible_connection=local
 
 [web]
-192.168.15.223
+192.168.15.222
 
