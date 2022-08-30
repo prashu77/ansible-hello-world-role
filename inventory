@@ -4,3 +4,7 @@ localhost ansible_connection=local
 [web]
 192.168.15.222
 
+[windows:vars]
+ansible_connection=ssh
+ansible_user=prashanth
+ansible_password="prashu@777"
