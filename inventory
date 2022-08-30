@@ -2,8 +2,6 @@
 localhost ansible_connection=192.168.15.222
 
 [web]
-ssh_user=prashanth
-ssh_pass=prashu@777
 192.168.15.222
 
 
